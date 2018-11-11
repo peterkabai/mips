@@ -1,3 +1,4 @@
+# Peter Kabai - 11/10/2018
 # asks the user for their age
 # prints adult or child, depending on the age
 

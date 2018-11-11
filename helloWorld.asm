@@ -1,3 +1,4 @@
+# Peter Kabai - 10/10/2018
 # my first mips program
 
 # global variables

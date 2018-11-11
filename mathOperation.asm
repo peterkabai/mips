@@ -1,3 +1,4 @@
+# Peter Kabai - 10/29/2018
 # performs the following mathematical operation:
 # f = (g + h) - (j - 12)
 # where: g = 12, h = 3, j = 27

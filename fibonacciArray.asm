@@ -1,3 +1,6 @@
+# Peter Kabai - 10/10/2018
+# prints the numbers in the fibonacci array
+
 .data
 fibonacci: .word 1,1,2,3,5,8,13
 spacer: .asciiz ", "

@@ -1,3 +1,4 @@
+# Peter Kabai - 10/20/2018
 # collects and prints the user's name and birthdate
 
 .data
